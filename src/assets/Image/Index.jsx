@@ -1,0 +1,8 @@
+export { default as Logo } from './Logo.png'
+export { default as images } from './images.jfif'
+export { default as images2 } from './images2.jfif'
+export { default as images3 } from './images3.jfif'
+export { default as wifiArea } from './wifiArea.jpeg'
+export { default as istockphoto } from './istockphoto.jpg'
+export { default as stake } from './stake.jpeg'
+export { default as chef } from './chef.png'
